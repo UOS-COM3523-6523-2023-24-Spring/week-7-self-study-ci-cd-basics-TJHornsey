@@ -1,7 +1,7 @@
 def simple_count(s):
-    return 0  # FIXME: should return the length of the string
+    return len(s)  # FIXME: should return the length of the string
 
-
+gi
 def random_function():
     import random
     if random.random() < 0.001:
