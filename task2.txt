@@ -1,0 +1,1 @@
+Isolate the non deterministic feature and have the test accept a range of values.
